@@ -1,0 +1,67 @@
+.cal a {
+    color: #848484;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem !important;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.banner img{
+    width: 775px;
+}
+
+.button-buy{
+   color: #fff; 
+   background-color: black;
+   padding: 10px 20px;
+   border-radius: 8px;
+   font-size: 18px;
+}
+
+#bg-2 {
+    margin-top: -180px;
+
+}
+#bg-2 img {
+    width: 170px;
+}
+
+.card {
+    box-shadow: 8px 8px 10px lightgreen;
+}
+
+.lab {
+    margin-top: 9px;
+}
+
+.line {
+    height: 5px;
+    width: 200px;
+    background-color: orange;
+    margin: auto; /* This will center the div horizontally */
+    position: absolute;
+    left: 40%;
+    right: 40%;
+
+}
+
+.bag, .shoe, .perfume {
+    width: 250px;
+    height: 250px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    box-shadow: 8px 8px 9px 8px rgb(211, 211, 211);
+    text-align: center; /* Center the text horizontally */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
